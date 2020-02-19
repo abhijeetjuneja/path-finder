@@ -13,7 +13,7 @@
     "mongoose": "~4.2.4",
     "mongoose-title-case": "latest",
     "mongoose-validator": "latest",
-    "morgan": "~1.5.0",
+    "morgan": "~1.9.1",
     "nodemon": "latest",
     "cors": "latest",
     "lodash": "latest"
